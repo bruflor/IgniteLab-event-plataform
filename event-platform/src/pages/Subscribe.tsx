@@ -33,6 +33,7 @@ export function Subscribe() {
     navigate("/event");
   }
 
+  const codeMackup = new URL("../assets/code-mockup.png", import.meta.url).href;
   return (
     <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
       <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
@@ -85,7 +86,7 @@ export function Subscribe() {
 
         <div className="mt-4 text-gray-200 leading-relaxed"></div>
       </div>
-      <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+      <img src={codeMackup} className="mt-10" alt="" />
     </div>
   );
 }
