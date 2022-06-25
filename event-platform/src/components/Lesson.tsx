@@ -3,6 +3,7 @@ import { isPast, format } from "date-fns";
 import ptBR from "date-fns/locale/pt-BR";
 import { Link, useParams } from "react-router-dom";
 
+//can use Graphql extension to change de gql to another folder and dont need to made a interface
 interface LessonProps {
   title: string;
   slug: string;
