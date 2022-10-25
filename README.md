@@ -15,7 +15,6 @@ Check the deployed app <a href="https://ignite-lab-event-platform-five.vercel.ap
 
 ## Project Screenshots
 
-  <img style="height: 200px" src=""/>
-  <img style="height: 200px" src=""/>
-  <img style="height: 200px" src=""/>
+  <img src="https://github.com/bruflor/IgniteLab-event-platform/blob/master/event-platform/src/assets/Screenshot%201.png"/>
+  <img src="https://github.com/bruflor/IgniteLab-event-platform/blob/master/event-platform/src/assets/Screenshot%202.png"/>
 
