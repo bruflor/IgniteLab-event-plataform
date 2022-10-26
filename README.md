@@ -1,6 +1,6 @@
 # Event Platform
 
-A Event platform built at IgniteLab by Rocketseat, an Event for a front-end specialization using React.
+A Event platform built at IgniteLab an Event for frontend specialization by Rocketseat.
 
 Check here the <a href="https://ignite-lab-event-platform-five.vercel.app/" target="_blank">deployed app</a>
 
