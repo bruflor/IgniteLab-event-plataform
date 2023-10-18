@@ -2,8 +2,6 @@
 
 A Event platform built at IgniteLab an Event for frontend specialization by Rocketseat.
 
-Check here the <a href="https://ignite-lab-event-platform-five.vercel.app/" target="_blank">deployed app</a>
-
 ## Technology
 
 * ReactJS
